@@ -5,7 +5,7 @@
 #
 
 <img width="1000" height="64" alt="1000031187" src="https://github.com/user-attachments/assets/eecf39aa-4780-48fd-8e5b-9bd2121dbe95" />
-<img width="147" height="150" alt="1000031124" src="https://github.com/user-attachments/assets/49f9a147-54db-428b-9794-577a604ebd5d" /><img width="147" height="150" alt="1000030838" src="https://github.com/user-attachments/assets/6272a738-679e-4f3b-b7ed-2164e6c15668" />
+<img width="145" height="150" alt="1000031124" src="https://github.com/user-attachments/assets/49f9a147-54db-428b-9794-577a604ebd5d" /><img width="145" height="150" alt="1000030838" src="https://github.com/user-attachments/assets/6272a738-679e-4f3b-b7ed-2164e6c15668" />
 
 
 ${\color{skyblue}zane﹒julien}$ㅤㅤㅤㅤㅤㅤㅤㅤㅤ   <img width="25" height="25" alt="1000031114" src="https://github.com/user-attachments/assets/0893f176-1fb6-4327-bab1-367eeebedf5f" /> <img width="25" height="25" alt="1000031118" src="https://github.com/user-attachments/assets/9df4f755-bc1f-4326-94a7-4a792025d59f" />
@@ -47,7 +47,7 @@ $${\color{skyblue}ahㅤyes,ㅤmeㅤandㅤaㅤcertainㅤsomeone/pㅤ<3}$$
 
 ####     $$\color{darkblue}\textsf{boundaries:}$$
 
-1. cud, boop, hug, hide, kiss, & touch freely !,
+1. cud, boop, hug, hide, kiss, & touch freely!
 $$\color{grey}\textsf{just don't over do, and platonic only}$$
 2. be mean, rude, jokingly with tone tags freely !,
 $$\color{grey}\textsf{im neurodivergent so i need ttags}$$
