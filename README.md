@@ -33,7 +33,7 @@ $\color{darkgrey}\textsf{i could be offtab or next to some friends}$
 i am mostly dry, so forgive me! sometimes when i feel energetic, ill be socializing if i could.
 <img width="400" height="280" alt="1000031122" src="https://github.com/user-attachments/assets/a53f315d-66c4-448c-bd3e-96aad697ed9b" />
 $${\color{skyblue}ahㅤyes,ㅤmeㅤandㅤaㅤcertainㅤsomeone/pㅤ<3}$$
-###### @lightingrod-ninja _!!_ ↑ scrollable _!_
+###### @lightningrod-ninja _!!_ ↑ scrollable _!_
 
 #
 
