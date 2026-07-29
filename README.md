@@ -2,6 +2,10 @@
 
 <img width="500" height="281" alt="1000031140" src="https://github.com/user-attachments/assets/7336a684-979d-4900-a912-5def739d7cc1" />
 
+<p align="center"> ${\color{lightyellow}𝚣𝚊𝚗𝚎'𝚜}$
+${\color{lightblue}𝚜𝚒𝚕𝚕𝚢}$ 
+${\color{skyblue}𝚛𝚎𝚊𝚍.𝚖𝚎}$
+
 #
 
 <img width="1000" height="64" alt="1000031187" src="https://github.com/user-attachments/assets/eecf39aa-4780-48fd-8e5b-9bd2121dbe95" />
@@ -17,10 +21,10 @@ ${\color{lightblue}he𓈒／they}$
 
 #
   
-$$\color{skyblue}\textsf{hi hello, my name is ken.t !}$$
+$$\color{skyblue}\textsf{hi hello, my name is 𝚔𝚎𝚗.𝚝 !}$$
 
-$$\color{lightblue}\textsf{or you can literally js call me zane !}$$
-
+$$\color{lightblue}\textsf{or you can literally js call me 𝚣𝚊𝚗𝚎 !}$$
+    
 <img width="734" height="245" alt="1000031110" src="https://github.com/user-attachments/assets/3d89e7b4-0a3c-48b3-aaf2-353d06f7ba41" />
 
 $\color{grey}\textsf{you'll mostly see me around lego area,}$
@@ -29,7 +33,7 @@ $\color{darkgrey}\textsf{i could be offtab or next to some friends}$
 i am mostly dry, so forgive me! sometimes when i feel energetic, ill be socializing if i could.
 <img width="400" height="280" alt="1000031122" src="https://github.com/user-attachments/assets/a53f315d-66c4-448c-bd3e-96aad697ed9b" />
 $${\color{skyblue}ahㅤyes,ㅤmeㅤandㅤaㅤcertainㅤsomeone/pㅤ<3}$$
-###### @akita-fortunate _!!_ ↑ scrollable _!_
+###### @lightingrod-ninja _!!_ ↑ scrollable _!_
 
 #
 
@@ -60,6 +64,17 @@ $$\color{red}\textsf{blocked!}$$
 
 <img width="700" height="30" alt="1000031191" src="https://github.com/user-attachments/assets/053e8143-b2b2-45ea-b414-30c414cd2aef" />
 
+<p align="center">${\color{skyblue}𝗌𝗂𝗀𝗇 ㅤ𝖺𝗍𝖺 .}$
+
+ ㅤㅤㅤㅤㅤㅤㅤ   ⤷  [𝙖𝙩𝙖.𝙗𝙤𝙤𝙠](https://zanejulien.atabook.org/?page=1)
+
 #
+
+<img width="500" height="500" alt="1000031238" src="https://github.com/user-attachments/assets/0eab3274-5014-4595-9cff-cead8f495536" />
+
+$$\color{lightblue}\textsf{aw, i guess thats all!}$$
+$$\color{skyblue}\textsf{hope you guys had fun reading this! }$$ 
+$$\color{blue}\textsf{signing off,}$$
+$\color{darkblue}\textsf{-𝓩𝓪𝓷𝓮 𝓙𝓾𝓵𝓲𝓮𝓷.}$
 
 <img width="1280" height="102" alt="1000031198" src="https://github.com/user-attachments/assets/e5241f24-4e6f-42d2-b6bd-ad67c96e4331" />
