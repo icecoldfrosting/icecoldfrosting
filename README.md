@@ -1,3 +1,8 @@
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=4DA0FF&vCenter=true&repeat=false&width=400&height=30&lines=%22You+will+not+hurt+my+friends.+ㅤ+ㅤ+ㅤ+ㅤ+ㅤ+ㅤ+ㅤ+ㅤ+ㅤ+ㅤ%22)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=85CBE8&vCenter=true&repeat=false&width=400&height=90&lines=%22there’s+nothing+you+could+do+to—%22)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E6&vCenter=true&repeat=false&width=400&height=30&lines=%22hold+me+back,—+ㅤ+ㅤ+ㅤ+ㅤ+ㅤ+ㅤ+ㅤ+ㅤ+%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFE0&vCenter=true&repeat=true&width=400&height=30&lines=%22+ㅤㅤ+ㅤ+I+KNOW+WHO+I+AM!+ㅤ+ㅤ+ㅤ%22)](https://git.io/typing-svg)
+
 <img width="1000" height="64" alt="1000031189" src="https://github.com/user-attachments/assets/85e312dc-da18-43c1-ae21-d27eb87f4b67" />
 
 <img width="500" height="281" alt="1000031140" src="https://github.com/user-attachments/assets/7336a684-979d-4900-a912-5def739d7cc1" />
