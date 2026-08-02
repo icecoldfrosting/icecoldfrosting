@@ -1,6 +1,6 @@
 #
 
-&nbsp;<div align="center">
+&nbsp;<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Aria+SC&size=20&duration=2500&pause=1000&color=87CEEB&center=true&width=450&lines=%E2%80%99who+likes+ice+cream?;i+do!+:D%E2%80%99;"/>
 
 <img width="1000" height="64" alt="1000031189" src="https://github.com/user-attachments/assets/85e312dc-da18-43c1-ae21-d27eb87f4b67" />
@@ -80,6 +80,7 @@ $$\color{red}\textsf{blocked!}$$
 $$\color{lightblue}\textsf{aw, i guess thats all!}$$
 $$\color{skyblue}\textsf{hope you guys had fun reading this! }$$ 
 $$\color{blue}\textsf{signing off,}$$
-$\color{darkblue}\textsf{-𝓩𝓪𝓷𝓮 𝓙𝓾𝓵𝓲𝓮𝓷.}$
+
+<p align="center">$\color{darkblue}\textsf{-𝓩𝓪𝓷𝓮 𝓙𝓾𝓵𝓲𝓮𝓷.}$
 
 <img width="1280" height="102" alt="1000031198" src="https://github.com/user-attachments/assets/e5241f24-4e6f-42d2-b6bd-ad67c96e4331" />
