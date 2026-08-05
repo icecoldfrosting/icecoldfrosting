@@ -1,5 +1,3 @@
-#
-
 &nbsp;<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Aria+SC&size=20&duration=2500&pause=1000&color=87CEEB&center=true&width=450&lines=%E2%80%99who+likes+ice+cream?;i+do!+:D%E2%80%99;"/>
 
